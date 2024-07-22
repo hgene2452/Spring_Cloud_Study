@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb565af4-d566-44cd-9366-1877d7a63ce7" name="Changes" comment=":sparkles: [config-files] upload config files">
-      <change afterPath="$PROJECT_DIR$/../demo-config-client-one/src/main/java/com/example/demo_config_client_one/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo-config-client-one/src/main/java/com/example/demo_config_client_one/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo-config-client-one/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-config-client-one/src/main/resources/bootstrap.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-config/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-config/src/main/resources/application.yml" afterDir="false" />
-    </list>
+    <list default="true" id="bb565af4-d566-44cd-9366-1877d7a63ce7" name="Changes" comment=":sparkles: [config-files] upload config files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +65,7 @@
       <updated>1721624005142</updated>
       <workItem from="1721624006181" duration="129000" />
       <workItem from="1721625180656" duration="707000" />
-      <workItem from="1721626335146" duration="991000" />
+      <workItem from="1721626335146" duration="1292000" />
     </task>
     <task id="LOCAL-00001" summary=":sparkles: [config-files] upload config files">
       <option name="closed" value="true" />
@@ -114,7 +107,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721626371587</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=":sparkles: [config-files] upload config files">
+      <option name="closed" value="true" />
+      <created>1721627846051</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721627846051</updated>
+    </task>
+    <task id="LOCAL-00007" summary=":sparkles: [config-files] upload config files">
+      <option name="closed" value="true" />
+      <created>1721628046581</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721628046581</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
