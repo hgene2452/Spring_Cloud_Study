@@ -1,7 +1,0 @@
-server:
-  port: 8084
-
-com:
-  web3:
-    profile: real
-    region: jp1

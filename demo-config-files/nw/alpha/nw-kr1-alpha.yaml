@@ -1,7 +1,0 @@
-server:
-  port: 8082
-
-com:
-  web3:
-    profile: alpha
-    region: kr1
