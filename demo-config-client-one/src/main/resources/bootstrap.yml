@@ -1,7 +1,0 @@
-# Config Server? ???? ?? ??
-spring:
-  application:
-    name: demo-config-client-one
-  cloud:
-    config:
-      uri: http://localhost:8888
