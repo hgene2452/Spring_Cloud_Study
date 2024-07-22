@@ -3,5 +3,5 @@ server:
 
 com:
   web3:
-    profile: real
+    profile: alpha
     region: kr1

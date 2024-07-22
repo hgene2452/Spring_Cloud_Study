@@ -1,7 +1,7 @@
 server:
-  port: 8081
+  port: 8084
 
 com:
   web3:
     profile: real
-    region: kr1
+    region: jp1
