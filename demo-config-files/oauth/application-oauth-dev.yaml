@@ -4,3 +4,4 @@ server:
 com:
   web3:
     profile: dev
+    msg: configTest
