@@ -1,0 +1,12 @@
+server:
+  port: 8888
+
+spring:
+  application:
+    name: demo-config
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/hgene2452/Spring_Cloud_Study/tree/main/demo-config
+          clone-on-start: true
