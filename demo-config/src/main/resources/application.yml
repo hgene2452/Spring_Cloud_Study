@@ -8,6 +8,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/hgene2452/Spring_Cloud_Study/tree/main/demo-config
+          uri: https://github.com/hgene2452/Spring_Cloud_Study
           search-paths: config-file/**
           default-label: main
