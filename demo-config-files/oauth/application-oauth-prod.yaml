@@ -1,6 +1,1 @@
-server:
-  port: 8084
-
-com:
-  web3:
-    profile: prod
+status: good

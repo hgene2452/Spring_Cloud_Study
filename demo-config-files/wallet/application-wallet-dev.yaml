@@ -1,6 +1,1 @@
-server:
-  port: 8086
-
-com:
-  web3:
-    profile: dev
+status: good

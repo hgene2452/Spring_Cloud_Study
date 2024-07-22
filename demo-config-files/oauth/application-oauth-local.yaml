@@ -1,6 +1,1 @@
-server:
-  port: 8083
-
-com:
-  web3:
-    profile: local
+status: good

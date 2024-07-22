@@ -1,6 +1,0 @@
-server:
-  port: 8081
-
-com:
-  web3:
-    profile: all

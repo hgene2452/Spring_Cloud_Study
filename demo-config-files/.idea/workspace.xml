@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb565af4-d566-44cd-9366-1877d7a63ce7" name="Changes" comment=":sparkles: [config-files] upload config files">
-      <change beforePath="$PROJECT_DIR$/../demo-config-client-one/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-config-client-one/src/main/resources/application.yml" afterDir="false" />
-    </list>
+    <list default="true" id="bb565af4-d566-44cd-9366-1877d7a63ce7" name="Changes" comment=":sparkles: [config-files] upload config files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +70,7 @@
       <updated>1721624005142</updated>
       <workItem from="1721624006181" duration="129000" />
       <workItem from="1721625180656" duration="707000" />
-      <workItem from="1721626335146" duration="2833000" />
+      <workItem from="1721626335146" duration="3161000" />
     </task>
     <task id="LOCAL-00001" summary=":sparkles: [config-files] upload config files">
       <option name="closed" value="true" />
@@ -170,7 +168,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721629229640</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary=":sparkles: [config-files] upload config files">
+      <option name="closed" value="true" />
+      <created>1721629640178</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1721629640178</updated>
+    </task>
+    <task id="LOCAL-00014" summary=":sparkles: [config-files] upload config files">
+      <option name="closed" value="true" />
+      <created>1721629735850</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1721629735850</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,7 +1,1 @@
-server:
-  port: 8083
-
-com:
-  web3:
-    profile: dev
-    msg: config_test
+status: good
