@@ -4,4 +4,4 @@ server:
 com:
   web3:
     profile: dev
-    msg: configTest
+    msg: config_test

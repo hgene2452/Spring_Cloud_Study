@@ -13,4 +13,5 @@ import org.springframework.cloud.context.config.annotation.RefreshScope;
 @ConfigurationProperties("com.web3")
 public class Config {
     private String profile;
+    private String msg;
 }
