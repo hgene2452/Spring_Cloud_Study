@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: demo-config-files-prod
+server:
+  port:8081
