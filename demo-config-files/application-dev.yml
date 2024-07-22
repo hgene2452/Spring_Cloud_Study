@@ -1,2 +1,7 @@
 server:
   port: 8082
+
+com:
+  web3:
+    profile: real
+    region: kr1
