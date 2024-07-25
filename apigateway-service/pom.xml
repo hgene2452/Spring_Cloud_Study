@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>gateway</artifactId>
+	<artifactId>apigateway-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>gateway</name>
+	<name>apigateway-service</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
@@ -41,9 +41,8 @@
 		</dependency>
 
 		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-devtools</artifactId>
-			<scope>runtime</scope>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
 			<optional>true</optional>
 		</dependency>
 		<dependency>
@@ -69,6 +68,14 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+				<configuration>
+					<excludes>
+						<exclude>
+							<groupId>org.projectlombok</groupId>
+							<artifactId>lombok</artifactId>
+						</exclude>
+					</excludes>
+				</configuration>
 			</plugin>
 		</plugins>
 	</build>
