@@ -10,14 +10,15 @@ eureka:
 spring:
   application:
     name: apigateway-service
-  cloud:
-    gateway:
-      routes:
-        - id: first-service
-          uri: http://127.0.0.1:8081/
-          predicates:
-                - Path=/first-service/**
-        - id: second-service
-          uri: http://127.0.0.1:8082/
-          predicates:
-              - Path=/second-service/**
+    # java code 를 통해 요청 설정 정보를 입력할 경우, 아래 코드는 주석 처리
+#  cloud:
+#    gateway:
+#      routes:
+#        - id: first-service
+#          uri: http://127.0.0.1:8081/
+#          predicates:
+#              - Path=/first-service/**
+#        - id: second-service
+#          uri: http://127.0.0.1:8082/
+#          predicates:
+#              - Path=/second-service/**
